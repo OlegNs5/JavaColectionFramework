@@ -1,0 +1,39 @@
+1.Scrie un program care sa initializeaza un hashmap cu obiectele de tipul CarBrand
+citite dintr-un fisier ce contine astfel de date. Cheile din hashmap vor fi numere intregi.
+
+2.Dupa initializarea hash-mapului aranjeaza toate brandurile de masini intr-o ordine alfabetica.
+
+3.Datele initiale din fisierul de masini sunt construite in mod random din lista de mai jos:
+(lista ce va fi transpusa in fisierul brands.txt)
+Audi
+BMW
+Chevrolet
+Dodge
+Ferrari
+Ford
+Honda
+Hyundai
+Isuzu
+Jeep
+Kia
+Lamborghini
+Land Rover
+Mazda
+Mercedes-Benz
+Mitsubishi
+Peugeot
+Saab
+Suzuki
+Toyota
+Volkswagen
+
+4.Fiecarui brand o sa-i atribui un numar de ordine in fisierul nou-creat random-brands.txt
+Exemplu de input din random-brands.txt
+1,Kia
+2,Ferrari
+3,BMW
+4,Ford
+5,Volkswagen
+6,Toyota
+
+Atentie! In fisierul tau random-brands.txt va fi o alta ordine fata de cea din exemplu de mai sus.
